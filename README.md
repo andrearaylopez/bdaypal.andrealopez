@@ -1,2 +1,2 @@
 # BdayPal App Landing Page
-  bdaypal.andrealopez.dev/
+  bdaypal.andrearaylopez.com/
