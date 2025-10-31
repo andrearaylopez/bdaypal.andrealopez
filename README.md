@@ -1,2 +1,2 @@
 # BdayPal App Landing Page
-  https://andrearaylopez.github.io/bdaypal.andrearaylopez.com/
+  https://andrearaylopez.github.io/bdaypal.andrealopez/
